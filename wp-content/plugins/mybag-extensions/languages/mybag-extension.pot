@@ -1,0 +1,357 @@
+# Copyright (C) 2021 Transvelo
+# This file is distributed under the same license as the MyBag Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MyBag Extensions 1.2.8\n"
+"Report-Msgid-Bugs-To: "
+"https://themeforest.net/item/mybag-single-product-woocommerce-theme/15244897"
+"/support/\n"
+"POT-Creation-Date: 2021-07-28 10:20:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: MyBag POT <support@transvelo.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: modules/js_composer/config/map.php:16
+msgid "MyBag Terms"
+msgstr ""
+
+#: modules/js_composer/config/map.php:18
+msgid ""
+"Adds a shortcode for get_terms. Used to get terms including categories, "
+"product categories, etc."
+msgstr ""
+
+#: modules/js_composer/config/map.php:22 modules/js_composer/config/map.php:127
+#: modules/js_composer/config/map.php:172
+#: modules/js_composer/config/map.php:222
+#: modules/js_composer/config/map.php:270
+#: modules/js_composer/config/map.php:326
+#: modules/js_composer/config/map.php:362
+msgid "MyBag Elements"
+msgstr ""
+
+#: modules/js_composer/config/map.php:121
+msgid "MyBag Blog"
+msgstr ""
+
+#: modules/js_composer/config/map.php:123
+msgid "Add blog posts to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:131
+msgid "Enter title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:138
+msgid "Number of Blog to display"
+msgstr ""
+
+#: modules/js_composer/config/map.php:145
+msgid "Order by"
+msgstr ""
+
+#: modules/js_composer/config/map.php:147
+msgid ""
+" Sort retrieved posts by parameter. Defaults to 'date'. One or more options "
+"can be passed"
+msgstr ""
+
+#: modules/js_composer/config/map.php:153
+#: modules/js_composer/config/map.php:290
+#: modules/js_composer/config/map.php:339
+msgid "Order"
+msgstr ""
+
+#: modules/js_composer/config/map.php:155
+msgid ""
+"Designates the ascending or descending order of the 'orderby' parameter. "
+"Defaults to 'DESC'."
+msgstr ""
+
+#: modules/js_composer/config/map.php:169
+msgid "Products Element"
+msgstr ""
+
+#: modules/js_composer/config/map.php:171
+#: modules/js_composer/config/map.php:221
+msgid "Add Products to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:177
+msgid "Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:184
+msgid "Pre Title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:191
+#: modules/js_composer/config/map.php:241
+msgid "Product Content"
+msgstr ""
+
+#: modules/js_composer/config/map.php:194
+#: modules/js_composer/config/map.php:244
+#: modules/js_composer/config/map.php:376
+#: modules/js_composer/config/map.php:396
+#: modules/js_composer/config/map.php:416
+msgid "Select"
+msgstr ""
+
+#: modules/js_composer/config/map.php:195
+#: modules/js_composer/config/map.php:245
+#: modules/js_composer/config/map.php:377
+#: modules/js_composer/config/map.php:397
+#: modules/js_composer/config/map.php:417
+msgid "Featured Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:196
+#: modules/js_composer/config/map.php:246
+#: modules/js_composer/config/map.php:378
+#: modules/js_composer/config/map.php:398
+#: modules/js_composer/config/map.php:418
+msgid "On Sale Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:197
+#: modules/js_composer/config/map.php:247
+#: modules/js_composer/config/map.php:379
+#: modules/js_composer/config/map.php:399
+#: modules/js_composer/config/map.php:419
+msgid "Top Rated Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:198
+#: modules/js_composer/config/map.php:248
+#: modules/js_composer/config/map.php:380
+#: modules/js_composer/config/map.php:400
+#: modules/js_composer/config/map.php:420
+msgid "Recent Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:199
+#: modules/js_composer/config/map.php:249
+#: modules/js_composer/config/map.php:381
+#: modules/js_composer/config/map.php:401
+#: modules/js_composer/config/map.php:421
+msgid "Best Selling Products"
+msgstr ""
+
+#: modules/js_composer/config/map.php:206
+msgid "Extra Class"
+msgstr ""
+
+#: modules/js_composer/config/map.php:208
+msgid "Add your extra classes here."
+msgstr ""
+
+#: modules/js_composer/config/map.php:219
+msgid "Products with Image Element"
+msgstr ""
+
+#: modules/js_composer/config/map.php:227
+#: modules/js_composer/config/map.php:276
+msgid "Limit"
+msgstr ""
+
+#: modules/js_composer/config/map.php:234
+msgid "Columns"
+msgstr ""
+
+#: modules/js_composer/config/map.php:255
+msgid "Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:267
+msgid "Products Carousel Element"
+msgstr ""
+
+#: modules/js_composer/config/map.php:269
+msgid "Add Products Carousel to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:283
+#: modules/js_composer/config/map.php:332
+msgid "Orderby"
+msgstr ""
+
+#: modules/js_composer/config/map.php:297
+msgid "Product IDs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:304
+msgid "Category"
+msgstr ""
+
+#: modules/js_composer/config/map.php:311
+msgid "Background Image"
+msgstr ""
+
+#: modules/js_composer/config/map.php:323
+msgid "Product Categories Element"
+msgstr ""
+
+#: modules/js_composer/config/map.php:325
+msgid "Add Product Categories to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:346
+msgid "Category Slug"
+msgstr ""
+
+#: modules/js_composer/config/map.php:359
+msgid "Product Tabs"
+msgstr ""
+
+#: modules/js_composer/config/map.php:361
+msgid "Add Product Tabs to your page."
+msgstr ""
+
+#: modules/js_composer/config/map.php:367
+msgid "Tab #1 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:373
+msgid "Tab #1 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:387
+msgid "Tab #2 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:393
+msgid "Tab #2 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:407
+msgid "Tab #3 title"
+msgstr ""
+
+#: modules/js_composer/config/map.php:413
+msgid "Tab #3 Content, Show :"
+msgstr ""
+
+#: modules/js_composer/config/map.php:427
+msgid "Enter Product Items"
+msgstr ""
+
+#: modules/js_composer/config/map.php:434
+msgid "Enter Product Columns"
+msgstr ""
+
+#: modules/post-types/static-block.php:51
+msgid "Add New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:52
+msgid "Edit Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:53
+msgid "New Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:54
+msgid "Static Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:55
+msgid "View Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:56
+msgid "Search"
+msgstr ""
+
+#: modules/post-types/static-block.php:57
+msgid "No blocks found"
+msgstr ""
+
+#: modules/post-types/static-block.php:58
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: modules/post-types/static-block.php:199
+msgid "Content Options"
+msgstr ""
+
+#: modules/post-types/static-block.php:205
+msgid "Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:206
+msgid "Apply all WP content filters? This will include plugin added filters."
+msgstr ""
+
+#: modules/post-types/static-block.php:211
+msgid "Defaults (recommended)"
+msgstr ""
+
+#: modules/post-types/static-block.php:212
+msgid "All Content Filters"
+msgstr ""
+
+#: modules/post-types/static-block.php:216
+msgid "Auto Paragraphs"
+msgstr ""
+
+#: modules/post-types/static-block.php:217
+msgid ""
+"Add &lt;p&gt; and &lt;br&gt; tags automatically. (disabling may fix layout "
+"issues)"
+msgstr ""
+
+#: modules/post-types/static-block.php:222
+msgid "On"
+msgstr ""
+
+#: modules/post-types/static-block.php:223
+msgid "Off"
+msgstr ""
+
+#: modules/theme-shortcodes/theme-shortcodes.php:19
+msgid "You need to enable YITH Compare plugin for product comparison to work"
+msgstr ""
+
+#: mybag-extensions.php:165 mybag-extensions.php:174
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MyBag Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://demo2.chethemes.com/mybag/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our lean and mean theme for "
+"WooCommerce, MyBag. Please note: they don’t work with any WordPress theme, "
+"just MyBag."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Transvelo"
+msgstr ""
+
+#: modules/post-types/static-block.php:48
+msgctxt "post type general name"
+msgid "Static Content Blocks"
+msgstr ""
+
+#: modules/post-types/static-block.php:49
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: modules/post-types/static-block.php:50
+msgctxt "block"
+msgid "Add New"
+msgstr ""

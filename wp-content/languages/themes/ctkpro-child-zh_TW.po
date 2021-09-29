@@ -1,0 +1,54 @@
+# Copyright (C) 2021 CTKPro
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ctkpro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-28 07:32+0000\n"
+"PO-Revision-Date: 2021-04-28 08:24+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: ctkpro\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: 繁體中文\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: functions.php:240
+msgid "-Select Gender-"
+msgstr "選擇性別"
+
+#: woocommerce/checkout/thankyou.php:100
+msgid "Back to home"
+msgstr "回首頁"
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "Birth date"
+msgstr "生日"
+
+#: functions.php:227
+msgid "Custom User information"
+msgstr "使用者資料"
+
+#: functions.php:230
+msgid "Date of Birth"
+msgstr "生日"
+
+#: functions.php:243 woocommerce/myaccount/form-edit-account.php:57
+msgid "Female"
+msgstr "女"
+
+#: functions.php:236 woocommerce/myaccount/form-edit-account.php:54
+msgid "Gender"
+msgstr "性別"
+
+#: functions.php:242
+msgid "Male"
+msgstr "男"
+
+#: functions.php:135
+msgid "Payment expired"
+msgstr "逾期未繳款"
